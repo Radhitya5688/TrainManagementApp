@@ -5,7 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1a48c953-7714-45d1-acf1-58c50c7af85c" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/UC7TrainConsistMgmt.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/UC4TrainConsistMgmt.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/UC6TrainConsistMgmt.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/UC7TrainConsistMgmt.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,12 +47,13 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Application.Main.executor": "Run",
+    "Application.UC4TrainConsistMgmt.executor": "Run",
     "Application.UC7TrainConsistMgmt.executor": "Run",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
     "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "feature/UC6",
+    "git-widget-placeholder": "feature/UC4",
     "kotlin-language-version-configured": "true",
     "onboarding.tips.debug.path": "C:/Users/radhi/IdeaProjects/TrainManagementApp_NEW/src/Main.java"
   }
