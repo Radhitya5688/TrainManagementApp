@@ -5,8 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a6932155-541b-4dbf-8c43-b16e496da6b5" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/UC10TrainConsistMgmt.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/UC11TrainConsistMgmt.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/UC11TrainConsistMgmt.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/UC12TrainConsistMgmt.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,6 +46,7 @@
   "keyToString": {
     "Application.UC10TrainConsistMgmt.executor": "Run",
     "Application.UC11TrainConsistMgmt.executor": "Run",
+    "Application.UC12TrainConsistMgmt.executor": "Run",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
