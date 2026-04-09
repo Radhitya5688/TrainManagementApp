@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8f1fd067-59c0-4e45-b93f-afa595a61e7f" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/App/src/UC13TrainConsistMgmt.java" beforeDir="false" afterPath="$PROJECT_DIR$/App/src/UseCase14TrainConsistMgmt.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/App/src/UseCase14TrainConsistMgmt.java" beforeDir="false" afterPath="$PROJECT_DIR$/App/src/UseCase15TrainConsistMgmt.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,11 +47,12 @@
     "Application.UC10TrainConsistMgmt.executor": "Run",
     "Application.UC11TrainConsistMgmt.executor": "Run",
     "Application.UseCase14TrainConsistMgmt.executor": "Run",
+    "Application.UseCase15TrainConsistMgmt.executor": "Run",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
     "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "feature/UC14",
+    "git-widget-placeholder": "feature/UC15",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "C:/Users/radhi/IdeaProjects/TrainManagementApp"
   }
