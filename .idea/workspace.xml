@@ -5,7 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8f1fd067-59c0-4e45-b93f-afa595a61e7f" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/App/src/UseCase18TrainConsistMgmt.java" beforeDir="false" afterPath="$PROJECT_DIR$/App/src/UseCase19TrainConsistMgmt.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/App/src/Problem2ClientRiskRanking.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/App/src/Problem3HistoricalTradeVolumeAnalysis.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/App/src/Problem4PortfolioReturnSorting.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/App/src/Problem5AccountIdLookup.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/App/src/Problem6RiskThresholdBinaryLookup.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/App/src/UseCase20TrainConsistMgmt.java" beforeDir="false" afterPath="$PROJECT_DIR$/App/src/Problem1TransactionFeeSorting.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,6 +49,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.Problem6RiskThresholdBinaryLookup.executor": "Run",
     "Application.UC10TrainConsistMgmt.executor": "Run",
     "Application.UC11TrainConsistMgmt.executor": "Run",
     "Application.UseCase14TrainConsistMgmt.executor": "Run",
@@ -55,7 +61,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
     "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "feature/UC19",
+    "git-widget-placeholder": "feature/WEEK1,2",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "C:/Users/radhi/IdeaProjects/TrainManagementApp"
   }
